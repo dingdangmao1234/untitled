@@ -13,5 +13,6 @@ public class Hello {
         System.out.println("gttee test");
         System.out.println("gttee test1");
         System.out.println("gttee test2");
+        System.out.println("");
     }
 }
