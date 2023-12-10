@@ -14,5 +14,6 @@ public class Hello {
         System.out.println("gttee test1");
         System.out.println("gttee test2");
         System.out.println("");
+        System.out.println("2");
     }
 }
